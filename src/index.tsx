@@ -788,7 +788,7 @@ const AppContent = () => {
     });
     const [weight, setWeight] = useState<number>(() => {
         const saved = localStorage.getItem('hrt-weight');
-        return saved ? parseFloat(saved) : 70.0;
+        return saved ? parseFloat(saved) : 60.0;
     });
 
     const [simulation, setSimulation] = useState<SimulationResult | null>(null);
