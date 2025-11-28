@@ -1,6 +1,6 @@
 # HRT 模拟记录仪（网页版）  
 > **本仓库 fork 自：[LaoZhong-Mihari/HRT-Recorder-online](https://github.com/LaoZhong-Mihari/HRT-Recorder-online) 并使用Github Pages 托管部署**
-**点击[在线访问](https://shintokosei.github.io/HRT-Recorder-online/)你的开始记录**
+**点击[在线访问](https://shintokosei.github.io/HRT-Recorder-online/)开始你的记录**
 
 一款注重隐私的网页工具，用于在激素替代疗法（HRT）期间模拟并追踪雌二醇（Estradiol）水平。
 

@@ -21,7 +21,7 @@ type Lang = 'zh' | 'en';
 
 const TRANSLATIONS = {
     zh: {
-        "app.title": "HRT 模拟记录",
+        "app.title": "HRT在线模拟记录🍥",
         "status.estimate": "当前估算浓度",
         "status.weight": "体重",
         "chart.title": "雌二醇浓度 (pg/mL)",
@@ -74,7 +74,7 @@ const TRANSLATIONS = {
         "ester.EN": "庚酸雌二醇 (EN)",
     },
     en: {
-        "app.title": "HRT Recorder",
+        "app.title": "HRT Recorder🍥",
         "status.estimate": "Current Estimate",
         "status.weight": "Weight",
         "chart.title": "Estradiol Concentration (pg/mL)",
